@@ -20,3 +20,10 @@ Compare the hash against the one in `SHA256SUMS.txt`.
 > Code signing is on the roadmap before general availability.
 
 Support: support@endroll.ai
+
+## License
+
+Endroll is proprietary software, © RagingRam Oy. All rights reserved.
+Downloading grants you the right to install and use the software under the
+[Endroll terms of service](https://endroll.ai/terms). Redistribution, resale,
+and reverse engineering are not permitted.
